@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/CAI23sbP/CAI23sbP/issues/1" />
+</div>
 
 <!--
 **CAI23sbP/CAI23sbP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
