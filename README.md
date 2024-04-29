@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAI23sbP&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAI23sbP&show_icons=true&count_private=true&theme=vision-friendly-dark)
 
 <!--
 **CAI23sbP/CAI23sbP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
