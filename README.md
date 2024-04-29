@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/CAI23sbP/CAI23sbP/assets/108871750/9b102ff3-d900-47a8-b172-c216bb3f84a4">
+<img src="https://github.com/CAI23sbP/CAI23sbP/assets/108871750/b0865eb1-efde-430d-ab70-c43e686a27e6">
 </p>
 
 <p align="center">
@@ -8,6 +8,7 @@
 
 <!--
 **CAI23sbP/CAI23sbP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
