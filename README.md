@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://github.com/CAI23sbP/CAI23sbP/assets/108871750/b0865eb1-efde-430d-ab70-c43e686a27e6", width="30%">
+<img src="https://github.com/CAI23sbP/CAI23sbP/assets/108871750/b0865eb1-efde-430d-ab70-c43e686a27e6", width="45%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CAI23sbP&show_icons=true&count_private=true&theme=vision-friendly-dark" width="30%">
+<img src="https://github-readme-stats.vercel.app/api?username=CAI23sbP&show_icons=true&count_private=true&theme=vision-friendly-dark" width="45%">
 </p>
 
 <!--
