@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/CAI23sbP/CAI23sbP/issues/1" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **CAI23sbP/CAI23sbP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
